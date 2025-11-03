@@ -1,4 +1,4 @@
-**Change GitHub / GitLab / Bitbucket account (authentication)**
+## Change GitHub / GitLab / Bitbucket account (authentication)
 
 **If you want to use a different online account (for pushing/pulling):**
 
